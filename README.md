@@ -14,8 +14,8 @@
 • Scalable ML with cloud (AWS/GCP)
 
 📫 How to reach me:  
-• Email: your.email@example.com  
-• LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+• Email: alladinishanth166@gmail.com  
+• LinkedIn: www.linkedin.com/in/alladinishanth
 
 ---
 
