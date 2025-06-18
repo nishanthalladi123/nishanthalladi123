@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishanth Alladi</h1>
-<h3 align="center">Machine Learning | Computer Vision | Applied AI Enthusiast</h3>
+<h3 align="center">Machine Learning | Data Science | Applied AI Enthusiast</h3>
 
 ---
 
