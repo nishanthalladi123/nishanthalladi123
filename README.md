@@ -23,7 +23,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🎬 [Movie Recommender System](https://github.com/nishanthalladi123/movie_recommender_system) | Built a personalized movie recommender using content-based filtering |
+
 | 🧠 [Brain Tumor Detection](https://github.com/nishanthalladi123/brain-tumor-detection-using-machine-learning) | Classifies MRI scans to detect brain tumors using traditional ML |
 | 🌿 [Plant Disease Detection](https://github.com/nishanthalladi123/Plant-disease-Detection) | Detects diseases in plant leaves via image processing and ML |
 | 🤟 [Sign Language Recognition](https://github.com/nishanthalladi123/signlanguage-recognition-using-machine-learning) | Recognizes hand gestures using computer vision and classification |
